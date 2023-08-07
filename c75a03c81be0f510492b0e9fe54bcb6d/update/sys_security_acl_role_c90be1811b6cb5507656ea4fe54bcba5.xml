@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>Guilherme.Batista.T_AOOP@grupoboticario.</sys_created_by>
+        <sys_created_on>2023-08-07 15:09:25</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c90be1811b6cb5507656ea4fe54bcba5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_grbo_beneficios_teste_poc_beneficios.x_grbo_beneficios.teste_poc_beneficios_user</sys_name>
+        <sys_package display_value="Beneficios" source="x_grbo_beneficios">c75a03c81be0f510492b0e9fe54bcb6d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Beneficios">c75a03c81be0f510492b0e9fe54bcb6d</sys_scope>
+        <sys_security_acl display_value="x_grbo_beneficios_teste_poc_beneficios">890be1811b6cb5507656ea4fe54bcb6a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c90be1811b6cb5507656ea4fe54bcba5</sys_update_name>
+        <sys_updated_by>Guilherme.Batista.T_AOOP@grupoboticario.</sys_updated_by>
+        <sys_updated_on>2023-08-07 15:09:25</sys_updated_on>
+        <sys_user_role display_value="x_grbo_beneficios.teste_poc_beneficios_user" name="x_grbo_beneficios.teste_poc_beneficios_user">240ba1cd1b2cb5507656ea4fe54bcb76</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
