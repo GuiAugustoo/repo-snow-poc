@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <sc_cat_item display_value="Escolha do plano de saúde - Poc">399e4b001b24f510492b0e9fe54bcb20</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>Guilherme.Batista.T_AOOP@grupoboticario.</sys_created_by>
+        <sys_created_on>2023-08-07 19:01:07</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4b0026011ba4f5507656ea4fe54bcbe4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Opened by and Opened for (ClickGB).Escolha do plano de saúde - Poc</sys_name>
+        <sys_package display_value="Beneficios" source="x_grbo_beneficios">c75a03c81be0f510492b0e9fe54bcb6d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Beneficios">c75a03c81be0f510492b0e9fe54bcb6d</sys_scope>
+        <sys_update_name>io_set_item_4b0026011ba4f5507656ea4fe54bcbe4</sys_update_name>
+        <sys_updated_by>Guilherme.Batista.T_AOOP@grupoboticario.</sys_updated_by>
+        <sys_updated_on>2023-08-07 19:01:07</sys_updated_on>
+        <variable_set display_value="Opened by and Opened for (ClickGB)">f2443e131b7629d0492b0e9fe54bcb9d</variable_set>
+    </io_set_item>
+</record_update>
