@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_grbo_beneficios.teste_rh_poc_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>teste_rh_poc_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>Guilherme.Batista.T_AOOP@grupoboticario.</sys_created_by>
+        <sys_created_on>2023-08-07 18:19:03</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>7a6692051b24f5507656ea4fe54bcba4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_grbo_beneficios.teste_rh_poc_user</sys_name>
+        <sys_package display_value="Beneficios" source="x_grbo_beneficios">c75a03c81be0f510492b0e9fe54bcb6d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Beneficios">c75a03c81be0f510492b0e9fe54bcb6d</sys_scope>
+        <sys_update_name>sys_user_role_7a6692051b24f5507656ea4fe54bcba4</sys_update_name>
+        <sys_updated_by>Guilherme.Batista.T_AOOP@grupoboticario.</sys_updated_by>
+        <sys_updated_on>2023-08-07 18:19:03</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Beneficios">c75a03c81be0f510492b0e9fe54bcb6d</application>
+        <file_path/>
+        <instance_id>899c79716f11fd40f51e7b2f5d3ee4ff</instance_id>
+        <instance_name>grupoboticariodev</instance_name>
+        <name>sys_user_role_7a6692051b24f5507656ea4fe54bcba4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><encryption_context/><grantable>true</grantable><includes_roles/><name>x_grbo_beneficios.teste_rh_poc_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>teste_rh_poc_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>Guilherme.Batista.T_AOOP@grupoboticario.</sys_created_by><sys_created_on>2023-08-07 18:19:03</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>7a6692051b24f5507656ea4fe54bcba4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_grbo_beneficios.teste_rh_poc_user</sys_name><sys_package display_value="Beneficios" source="x_grbo_beneficios">c75a03c81be0f510492b0e9fe54bcb6d</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Beneficios">c75a03c81be0f510492b0e9fe54bcb6d</sys_scope><sys_update_name>sys_user_role_7a6692051b24f5507656ea4fe54bcba4</sys_update_name><sys_updated_by>Guilherme.Batista.T_AOOP@grupoboticario.</sys_updated_by><sys_updated_on>2023-08-07 18:19:03</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-20775483</payload_hash>
+        <record_name>x_grbo_beneficios.teste_rh_poc_user</record_name>
+        <reverted_from/>
+        <source>792dc3881be0f510492b0e9fe54bcb9d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Guilherme.Batista.T_AOOP@grupoboticario.</sys_created_by>
+        <sys_created_on>2023-08-07 18:19:03</sys_created_on>
+        <sys_id>fa669e051b24f5507656ea4fe54bcb83</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189d13956ae0000001</sys_recorded_at>
+        <sys_updated_by>Guilherme.Batista.T_AOOP@grupoboticario.</sys_updated_by>
+        <sys_updated_on>2023-08-07 18:19:03</sys_updated_on>
+        <type>Role</type>
+        <update_guid>fe669e05cc24f5508a2f5ecb0d069c82</update_guid>
+        <update_guid_history>fe669e05cc24f5508a2f5ecb0d069c82:-20775483</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 07/08/2023 15:51:09">85cd96c51b64f5507656ea4fe54bcb21</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Guilherme.Batista.T_AOOP@grupoboticario.</sys_created_by>
+        <sys_created_on>2023-08-07 18:51:09</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>c7985e21b12343408f338c25afda1a10</sys_id>
+        <sys_metadata>7a6692051b24f5507656ea4fe54bcba4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_grbo_beneficios.teste_rh_poc_user</sys_name>
+        <sys_package display_value="Beneficios" source="x_grbo_beneficios">c75a03c81be0f510492b0e9fe54bcb6d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Beneficios">c75a03c81be0f510492b0e9fe54bcb6d</sys_scope>
+        <sys_scope_delete display_value="">018f2e96dac84f60800c9be2b3820400</sys_scope_delete>
+        <sys_update_name>sys_user_role_7a6692051b24f5507656ea4fe54bcba4</sys_update_name>
+        <sys_update_version display_value="sys_user_role_7a6692051b24f5507656ea4fe54bcba4">fa669e051b24f5507656ea4fe54bcb83</sys_update_version>
+        <sys_updated_by>Guilherme.Batista.T_AOOP@grupoboticario.</sys_updated_by>
+        <sys_updated_on>2023-08-07 18:51:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
