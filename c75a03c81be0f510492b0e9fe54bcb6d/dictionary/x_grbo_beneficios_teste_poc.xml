@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="af2f269d1bacb950492b0e9fe54bcb07" label="teste poc" max_length="40" name="x_grbo_beneficios_teste_poc" type="collection"/>
+    <element db_object_id="af2f269d1bacb950492b0e9fe54bcb07" label="teste poc" max_length="40" name="x_grbo_beneficios_teste_poc" type="collection">
+        <element label="teste poc" max_length="40" name="teste_poc" type="string"/>
+    </element>
 </database>
